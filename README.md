@@ -15,8 +15,8 @@ Hi, I'm [Nagendra]
 - Master data preprocessing
 
 📂 Featured Projects:
-- [IPL simulator](https://github.com/nagendragouda390-lgtm/IPL-T20-)
-- [Project 2 link]
+- [IPL match simulator](https://github.com/nagendragouda390-lgtm/IPL-T20-)
+- [ODI match simulator](https://github.com/nagendragouda390-lgtm/CRICKET-World-Cup_final_2019)
 
 📊 GitHub Stats (optional)
 
