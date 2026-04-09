@@ -15,7 +15,7 @@ Hi, I'm [Nagendra]
 - Master data preprocessing
 
 📂 Featured Projects:
-- [IPL simulator](nagendragouda390-lgtm/IPL-T20-)
+- [IPL simulator](https://github.com/nagendragouda390-lgtm/IPL-T20-)
 - [Project 2 link]
 
 📊 GitHub Stats (optional)
