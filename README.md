@@ -15,7 +15,7 @@ Hi, I'm [Nagendra]
 - Master data preprocessing
 
 📂 Featured Projects:
-- [Project 1 link]
+- (nagendragouda390-lgtm/IPL-T20-)
 - [Project 2 link]
 
 📊 GitHub Stats (optional)
