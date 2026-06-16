@@ -7,15 +7,16 @@ Hi, I'm [Nagendra]
 
 🔧 Skills:
 - Python
-- Pandas, NumPy
-- Basic ML (Scikit-learn)
+- Pandas, NumPy , Matplotlib, Seaborn
+- SQL
+- Scikit-learn
 
 📈 Current Goal:
 - Build 5 real ML projects
 - Master data preprocessing
 
 📂 Featured Projects:
-- [House Price Predictor App](https://house-price-predictor-log.streamlit.app/)
+- [House Price Predictor App (LinearRegression)](https://house-price-predictor-log.streamlit.app/)
 - [Titanic (ML)](https://github.com/nagendragouda390-lgtm/Titanic-ML)
 - [ODI match simulator](https://github.com/nagendragouda390-lgtm/CRICKET-World-Cup_final_2019)
 
@@ -32,7 +33,7 @@ Hi, I'm [Nagendra]
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning streamlit
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
