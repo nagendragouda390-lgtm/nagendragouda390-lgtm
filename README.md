@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm [Nagendra]
+Hi, I'm NAGENDRA
 
 🚀 AIML Engineer in Progress (Year 1)
 📍 Focus: Python, Data Science, Machine Learning
