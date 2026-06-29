@@ -16,7 +16,7 @@ Hi, I'm NAGENDRA
 - Master data preprocessing
 
 📂 Featured Projects:
-- [House Price Predictor App (LinearRegression)](https://house-price-predictor-log.streamlit.app/)
+- [ODI CHASE PREDICTOR](https://odi-chase-predictor.onrender.com/)
 - [Titanic (ML)](https://github.com/nagendragouda390-lgtm/Titanic-ML)
 - [ODI match simulator](https://github.com/nagendragouda390-lgtm/CRICKET-World-Cup_final_2019)
 
