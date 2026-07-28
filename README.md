@@ -28,8 +28,8 @@ Hi, I'm NAGENDRA
 - Day 30 : First ML model
 - Day 120: End to End projects
 
-<!--
-**nagendragouda390-lgtm/nagendragouda390-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**nagendragouda390-lgtm/nagendragouda390-lgtm** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 9945364995
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
--->
+
