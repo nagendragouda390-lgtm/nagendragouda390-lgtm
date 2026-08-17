@@ -48,7 +48,10 @@ I learn by building real-world projects, solving problems, and strengthening my 
 Machine learning project for predicting IPL chase outcomes using ipl match data.
 
 🔗 **GitHub:**
+https://github.com/nagendragouda390-lgtm/t20-chase-predictor-for-batting-pitch
 
+🔗 **Live Demo:**
+https://t20-chase-predictor-for-batting-pitch.onrender.com/
 
 ### 🏏 ODI Chase Predictor
 
