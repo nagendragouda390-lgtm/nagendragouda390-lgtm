@@ -43,6 +43,13 @@ I learn by building real-world projects, solving problems, and strengthening my 
 
 ## 🚀 Featured Projects
 
+### 🏏 T20 Chase Predictor 
+
+Machine learning project for predicting IPL chase outcomes using ipl match data.
+
+🔗 **GitHub:**
+
+
 ### 🏏 ODI Chase Predictor
 
 Machine learning project for predicting ODI chase outcomes using cricket match data.
