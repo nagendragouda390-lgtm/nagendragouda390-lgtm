@@ -7,12 +7,16 @@ Hi, I'm NAGENDRA
 
 🔧 Skills:
 - Python
-- Pandas, NumPy , Matplotlib, Seaborn
+- C programming
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 - SQL
 - Scikit-learn
 
 📈 Current Goal:
-- Build 5 real ML projects
+- Building real ML projects
 - Master data preprocessing
 
 📂 Featured Projects:
