@@ -11,13 +11,13 @@ I learn by building real-world projects, solving problems, and strengthening my 
 ## 🧠 Tech Stack
 
 ### 💻 Programming
-- Python
-- C
+- 🐍Python
+- ©️C
 - SQL
 
 ### 📊 Data Science
 - NumPy
-- Pandas
+- 🐼 Pandas
 - Matplotlib
 - Seaborn
 
