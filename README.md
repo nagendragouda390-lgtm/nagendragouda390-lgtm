@@ -1,138 +1,96 @@
-# 👋 Hi, I'm Nagendra
+# Hi, I'm Nagendra 👋
 
-### 🚀 AI/ML Engineer in Progress
+### Aspiring Data Analyst | Python | SQL | Data Visualization
 
-I'm a BCA student focused on **Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
+I'm a BCA student building my skills in data analytics, data visualization,
+and business intelligence.
 
-I learn by building real-world projects, solving problems, and strengthening my fundamentals.
+I enjoy exploring datasets, identifying patterns, and turning raw data
+into meaningful insights.
+
+🎯 My goal is to become a Junior Data Analyst and help businesses
+make data-driven decisions.
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Programming
-- 🐍Python
-- ©️C
-- SQL
-
-### 📊 Data Science
+### Programming & Data Analysis
+- Python
+- Pandas
 - NumPy
-- 🐼 Pandas
+
+### Data Visualization
 - Matplotlib
 - Seaborn
 
-### 🤖 Machine Learning
+### Database
+- SQL (Learning)
+
+### Business Intelligence
+- Power BI (Learning)
+
+### Machine Learning
 - Scikit-learn
-- Data Preprocessing
-- Feature Engineering
-- Classification
-- Regression
-- Model Evaluation
-- Hyperparameter Tuning
-
-### 🔥 Currently Learning
-- Data Structures & Algorithms
-- LeetCode
-- Binary Trees
-- Linux / Termux
-- Git & GitHub
-- Artificial Intelligence
-- NLP
 
 ---
 
-## 🚀 Featured Projects
+## 📊 Featured Projects
 
-### 🏏 T20 Chase Predictor 
+### 1. Sales Data Analysis
+- Analyzing sales performance and revenue trends.
+- Identifying top-performing products and regions.
+- Extracting business insights using Python and SQL.
 
-Machine learning project for predicting IPL chase outcomes using ipl match data.
+🔗 [View Project](YOUR_REPOSITORY_LINK)
 
-🔗 **GitHub:**
-https://github.com/nagendragouda390-lgtm/t20-chase-predictor-for-batting-pitch
+### 2. Titanic Data Analysis
+- Exploring passenger survival patterns.
+- Cleaning data and handling missing values.
+- Performing exploratory data analysis using Pandas.
 
-🔗 **Live Demo:**
-https://t20-chase-predictor-for-batting-pitch.onrender.com/
+🔗 [View Project](YOUR_TITANIC_REPOSITORY_LINK)
 
-### 🏏 ODI Chase Predictor
+### 3. IPL Data Analysis
+- Analyzing cricket match data.
+- Exploring team performance and match outcomes.
+- Applying Python and machine learning techniques.
 
-Machine learning project for predicting ODI chase outcomes using cricket match data.
-
-🔗 **Live Demo:**  
-https://odi-chase-predictor.onrender.com/
-
----
-
-### 🚢 Titanic ML
-
-Machine learning project based on the famous Titanic dataset.
-
-🔗 **GitHub:**  
-https://github.com/nagendragouda390-lgtm/Titanic-ML
+🔗 [View Project](YOUR_IPL_REPOSITORY_LINK)
 
 ---
 
-### 🏏 ODI Match Simulator
+## 📚 Currently Learning
 
-Python-based cricket match simulation project.
-
-🔗 **GitHub:**  
-https://github.com/nagendragouda390-lgtm/CRICKET-World-Cup_final_2019
-
----
-
-## 📈 My Learning Journey
-
-| Milestone | Progress |
-|---|---|
-| 🐍 Day 1 | Python Fundamentals |
-| 📊 Day 30 | First ML Model |
-| 🤖 Day 120 | End-to-End ML Projects |
-| 🧠 Day 160+ | ML + DSA + AI Fundamentals |
-| 🚀 Current | Building AI/ML Engineering Skills |
+- SQL for Data Analysis
+- Advanced Pandas
+- Statistics for Data Analysis
+- Excel and Google Sheets
+- Power BI and DAX
+- Business Intelligence
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Career Goals
 
-- Build real-world ML projects
-- Master data preprocessing
-- Improve feature engineering
-- Strengthen DSA and problem solving
-- Learn Deep Learning
-- Learn NLP
-- Build and deploy production-ready ML applications
-- Progress toward becoming an AI/ML Engineer
+- Build real-world data analytics projects.
+- Improve SQL and business problem-solving skills.
+- Develop interactive Power BI dashboards.
+- Secure my first Junior Data Analyst position.
 
 ---
 
-## 🧩 Problem Solving
+## 📈 My GitHub Stats
 
-I practice **LeetCode** to improve:
-
-- Algorithmic thinking
-- Data Structures
-- Time & Space Complexity
-- Recursion
-- Python problem solving
-
-Currently focusing on:
-
-`Arrays` • `Strings` • `Hash Maps` • `Binary Trees` • `Recursion` • `Big-O`
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true)
 
 ---
 
-## 📚 Learning Philosophy
+## 🤝 Connect With Me
 
-> **Don't just memorize code. Understand the algorithm, write it yourself, and build something with it.**
-
-**Learning → Building → Deploying → Engineering**
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [@nagendragouda390-lgtm](https://github.com/nagendragouda390-lgtm)
+- GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- LinkedIn: YOUR_LINKEDIN_PROFILE
 
 ---
 
-⭐ **Building one project and solving one problem at a time.**
+*Learning continuously. Analyzing data. Building practical solutions.*
